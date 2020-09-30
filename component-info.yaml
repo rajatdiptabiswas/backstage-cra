@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-cra
+  description: Create React App template for Backstage
+spec:
+  type: website
+  lifecycle: experimental
+  owner: rajatdiptabiswas
